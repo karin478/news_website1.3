@@ -1,0 +1,17 @@
+.home {
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.home h2,
+.home h3 {
+  color: #333;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 1.2em;
+  color: #666;
+  margin-bottom: 20px;
+}

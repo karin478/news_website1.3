@@ -1,0 +1,29 @@
+.about-me {
+  padding: 20px;
+  line-height: 1.6;
+  font-family: Arial, sans-serif;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-me h2 {
+  color: #333;
+  font-size: 2em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.about-me h3 {
+  color: #333;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.about-me p {
+  font-size: 1.2em;
+  color: #666;
+  margin-bottom: 20px;
+  text-indent: 2em;
+}
